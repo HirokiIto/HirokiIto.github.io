@@ -1,5 +1,7 @@
 # create-react-app mobx react-router4 auth by firebase
 
+[ripo](https://github.com/HirokiIto/create-react-app-mobx-react-router4-auth-by-firebase)
+
 ## Project Structure
 
 ```
@@ -52,16 +54,19 @@ Serves your app at `http://localhost:8008`
 
 ## Demonstrate
 
-[demo](https://HirokiIto.github.io/)
+[demo](https://hirokiito.github.io/create-react-app-mobx-react-router4-auth-by-firebase)
+
+sign upコンポーネントなどは含まれてません。
 
 sign in
-mail: xxx@gmail.com
-pass: aaaaaa
+* mail: xxx@gmail.com
+* pass: aaaaaa
 
 ## reference
 
-[mobx decorators](https://www.robinwieruch.de/create-react-app-mobx-decorators/)
-[firebase auth](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
+* [mobx decorators](https://www.robinwieruch.de/create-react-app-mobx-decorators/)
+* [firebase auth](https://www.robinwieruch.de/complete-firebase-authentication-react-tutorial/)
+* [GitHub ページを React でつくる (基礎編)](https://qiita.com/KoheiShingaiHQ/items/b4bf8dd47a99e5d14caf)
 
 ## Authors
 
