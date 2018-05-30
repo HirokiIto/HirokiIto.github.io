@@ -19,3 +19,7 @@
 
 * [ripo](https://github.com/HirokiIto/react-template-2018)
 * [demo](https://hirokiito.github.io/react-template-2018)
+
+In demo, you can sign in by input the following mail and pass.
+  + mail: xxx@gmail.com
+  + pass: aaaaaa
